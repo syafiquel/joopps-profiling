@@ -1,0 +1,202 @@
+﻿question,attribute,dimension,is_positive
+My actions reflect my core values.,1,1,1
+I seek others’ opinions before making up my own mind.,1,1,1
+I seek feedback as a way of understanding who I really am as a person.,1,1,1
+My morals guide what I do as a leader.,1,1,1
+I rarely present a “false” front to others.,1,1,1
+I accept the feelings I have about myself,1,1,1
+I listen very carefully to the ideas of others before making decisions.,1,1,1
+I admit my mistakes to others.,1,1,1
+I believe that having a front or a façade is required especially for work.,1,1,0
+"At work, I must be seen to be a strong leader no matter what.",1,1,0
+"I rarely change my mind even after hearing others, as I know what is the best way forward.",1,1,0
+"When making decisions, I employ sound judgement.",2,1,1
+I make sound and informed decisions by exercising good judgement.,2,1,1
+I make sound decisions even in the face of uncertainty.,2,1,1
+I am able to make sound and timely decisions under pressure.,2,1,1
+I am capable of maintaining an emotional connection when making a decision.,2,1,1
+"In circumstances where there are no clear guidelines to follow, I am able to distinguish between right and wrong.",2,1,1
+"I would deeply consider the consequences of my decisions before thinking, speaking and acting.",2,1,1
+"In the interest of time, I only take into account one or two factors when making a decision.",2,1,0
+I struggle to make decisions in the face of uncertainty.,2,1,0
+"Decisions are often made off the cuff, as I find that to be most  effective for me personally",2,1,0
+"I am able to sense, perceive, or anticipate the best opportunities which come up in our environment.",3,1,1
+I use a broad range of skills and can be applied to other tasks when needed.,3,1,1
+"I am ready to learn and are prepared to constantly access, apply and update knowledge.",3,1,1
+I am able to re-organize continuously in different team configurations to meet changing requirements and the newly arising challenges.,3,1,1
+"I am able to adjust interpersonal styles to achieve goals when working with new teams, co-workers, or customers. ",3,1,1
+"I am able to adjust and deal with unpredictable situations, shift focus and take reasonable action.",3,1,1
+"I am able to anticipate, prepare for, and learn skills, new tasks, technologies and procedures for future job requirements.",3,1,1
+"I remain calm under pressure, handle frustration, and act as a calming influence.",3,1,1
+"Once I land on an approach, I tend not to change it.",3,1,0
+I see being “adaptable” as being “weak minded” as I am unable to be decisive in my decision making  ,3,1,0
+"When things don’t go the way they are suppose to, I get stressed.",3,1,0
+I am able to handle difficult or complex work tasks.,4,1,1
+I am able to undertake work that requires sustained and focused attention.,4,1,1
+I am able to undertake work that involves carrying responsibility for other people or for valuable goods.,4,1,1
+"I am able to undertake work whereby the workflow must meet deadlines, take place at a prescribed speed etc.",4,1,1
+I am able to undertake work that involves multiple tasks,4,1,1
+I am able to undertake work that is susceptible to interruptions.,4,1,1
+"I am able to undertake work for which there may be a lack the information, tools, personal assistance needed, or obstacles to carry out the work tasks.",4,1,1
+I am able to work in emotionally demanding situations.,4,1,1
+"When stressed at work, I often find myself delegating my tasks to others to perform.",4,1,0
+"When under stress, I tend to become edgy and irritable with others.",4,1,0
+"Being edgy and irritable with others, when I am under stress is perfectly fine to me.",4,1,0
+"When things don’t go the way they are suppose to, I get stressed.",4,1,0
+I have a good sense of why I have certain feelings most of the time.,5,1,1
+I have a good understanding of my own emotions.,5,1,1
+I am sensitive to the feelings and emotions of others.,5,1,1
+I have a good understanding of the emotions of people around me.,5,1,1
+I always set goals for myself and then try my best to achieve them.,5,1,1
+I would always encourage myself to try my best.,5,1,1
+I am able to control my temper and handle difficulties rationally.,5,1,1
+I have a good control of my own emotions.,5,1,1
+I tend to blame others for my loss of temper.,5,1,0
+I often don’t understand why others feel the way that they do.,5,1,0
+"I am really good at setting goals for others, but not for myself.",5,1,0
+"When things don’t go the way they are suppose to, I get stressed.",5,1,0
+" When I reflect on the way I act at work, I can see that I follow procedures and rules.",6,1,1
+" When I reflect on the way I act at work, I can see that I speak out against unfair practices.",6,1,1
+" When I reflect on the way I act at work, I can see that I seek to protect each individual’s dignity.",6,1,1
+" When I reflect on the way I act at work, I can see that I am concerned when individuals or groups have advantages compared to others.",6,1,1
+When I have to resolve an ethical dilemma I check the legal and regulatory clauses that might apply.,6,1,1
+When I have to resolve an ethical dilemma I conduct an in depth fact finding.,6,1,1
+My decision in the resolution of an ethical dilemma is based on the input from my superiors / HR or the organization’s procedures and rules.,6,1,1
+My decision in the resolution of an ethical dilemma is based on greater social justice.,6,1,1
+"When I have to resolve an ethical dilemma, I will allow HR to do the fact finding.",6,1,0
+"I will do whatever is required to get the job done, even it means bending the pre-agreed rules.",6,1,0
+"When faced with a conflict, I will always decide on what works best for me and my best interest.",6,1,0
+"Ethics is a luxury for others to be concerned about, I have a job to do and results to deliver.",6,1,0
+I will follow up and take action when objectives are not attained to ensure future success.,7,2,1
+I have the ability to recognise what goals are important and why and what needs to be done to achieve these goals.,7,2,1
+I would utilise a timely and well-organized strategy to attain the required results.,7,2,1
+I would use project management tools and practices to keep projects on track and within budget. ,7,2,1
+I would effectively engage team members in accomplishing goals.,7,2,1
+I would establish clear and ambitious goals for myself and others.,7,2,1
+I have a track record of consistently achieving the results expected.,7,2,1
+I accept responsibility and ownership for the outcomes.,7,2,1
+I pride myself on the activities done and hope the results will be achieved.,7,2,0
+I am perfectly fine if the expected results are not achieved. ,7,2,0
+I often delegate my work to the team to achieve the results required.,7,2,0
+I consciously work to cultivate values and create an environment of open and honest communication to make my work possible,8,2,1
+I am purposefully driven in undertaking any task given to me.,8,2,1
+"I am emotional balanced in undertaking my work and do not react out of fear, confusion, or annoyance",8,2,1
+I am able to choose the optimal course of action as I am clear and committed to my purpose.,8,2,1
+"I am able to constructively engage others to ""walk the talk"" and deliver on the larger purpose outcomes.",8,2,1
+I will only work in a purpose-driven organisation with a value-system that aligns with my values.,8,2,1
+I value purpose at work.,8,2,1
+"My decision-making process is driven by fear, security, and scarcity, and is therefore motivated by an urge to play it safe and avoid mistakes.",8,2,0
+I just do things because it’s asked of me.,8,2,0
+I am not too concerned with the whys and the end results of what needs to be done. I just do it.,8,2,0
+I expect my team to deliver what they have committed to and not ask me what the bigger picture is that we are working towards. ,8,2,0
+I can convince people to overcome conflicts and work as a team to achieve a particular result.,9,2,1
+I always plan everything I do very carefully. ,9,2,1
+"To achieve my goals, I detail all the steps to be followed. ",9,2,1
+"I like improving the conventional and correct way of activities, not strictly following steps.",9,2,1
+"I would assume a long-term debt, believing in the advantages that a business opportunity would bring me.",9,2,1
+I admit taking risks in exchange for possible benefits.,9,2,1
+"I know several people who could assist me professionally, if I needed it. ",9,2,1
+I think I have skills to detect business opportunities in the market. ,9,2,1
+ I am risk averse by nature.,9,2,0
+I don’t understand why people take unnecessary risks.,9,2,0
+I believe we have too much to loose when we take risks.,9,2,0
+I am sensitive to what others are not saying.,10,3,1
+I listen for more than just the spoken words.,10,3,1
+I summarize points of agreement and disagreement when appropriate.,10,3,1
+I keep track of points others make.,10,3,1
+I assure others that I am listening by using verbal acknowledgments.,10,3,1
+I ask questions that show my understanding of others’ positions.,10,3,1
+"I show others that I am listening by my body language (e.g., head nods).",10,3,1
+I am aware of what others imply but do not say.,10,3,1
+"Unless I am clearly told, I don’t assume what people are saying or feeling.",10,3,0
+"I believe that if someone has something to say, he/she must say it and not expect me to guess what it is.",10,3,0
+"The spoken word is all that matters to me, every thing else is noise.",10,3,0
+Creative ideas simply occur to me without even thinking about them.,11,3,1
+I believe that the unconscious processes facilitates my creative work,11,3,1
+I must be emotionally moved in order to be creative.,11,3,1
+"I typically create new ideas by systematically modifying (by substituting, rearranging, elaborating, etc) an existing idea.",11,3,1
+"When I have a new idea, I tend to discuss it with someone to determine its potential for success.",11,3,1
+I am at my creative best when I work in a group.,11,3,1
+I tend to use visualisation a lot in my creative work.,11,3,1
+"I would like to think I am creative in my thoughts, but infact I am not.",11,3,0
+"I have no time for creative thinking, I must approach things practically. ",11,3,0
+"Creative thinking takes too much of effort, I leave it to others to do.",11,3,0
+"The spoken word is all that matters to me, every thing else is noise.",11,3,0
+I am able to identify that there is a problem.,12,3,1
+I am usually able to think of creative and effective alternatives to my problems.,12,3,1
+"After following a course of action to solve a problem, I compare the actual outcome with the one I had anticipated.",12,3,1
+"When I have a problem, I think of as many possible ways to handle it as I can until I can’t come up with any more ideas.",12,3,1
+I have the ability to solve most problems even though initially no solution is immediately apparent.,12,3,1
+"When confronted with a problem, I stop and think about it before deciding on a next step.",12,3,1
+"When making a decision, I compare alternatives and weigh the consequences of one against the other.",12,3,1
+I trust my ability to solve new and difficult problems,12,3,1
+"When confronted with a problem, I usually first survey the situation to determine the relevant information.",12,3,1
+"I am an executer, tell me what to do and I will do it to the best of my ability. ",12,3,0
+"I don’t enjoy problem solving, I just want to get things done.",12,3,0
+"I have difficulty in looking at the bigger picture, I rather focus on the little things that needs to be done. ",12,3,0
+I am capable of analysing data and information from multiple sources to reach logical conclusions.,13,3,1
+I can interpret and analyse data effectively.,13,3,1
+I can examine the integrity and comparability of data and detect existing gaps.,13,3,1
+I have a good working knowledge of numbers and data.,13,3,1
+I am comfortable collecting and analysing data and developing decision justifications.,13,3,1
+I evaluate the efficacy of procedures and programmes using facts and data collected from reputable sources.,13,3,1
+"When making decisions, I am comfortable using spreadsheets and database tools to organise information.",13,3,1
+I am able to infer important trends from data.,13,3,1
+I leave data analysis to others on the team.,13,3,0
+I have difficulty analysing large volumes of data.,13,3,0
+I will look for and apply applications that will analyse data for me. ,13,3,0
+I can learn new technologies easily.,14,3,1
+I have good ICT skills.,14,3,1
+"I have the technical skills I need to use ICT for learning and to create artefacts (e.g. presentations, digital stories, wikis, blogs) that demonstrate my understanding of what I have learnt.",14,3,1
+I know about a lot of different technologies.,14,3,1
+I am confident with my search and evaluate skills in regards to obtaining information from the Web.,14,3,1
+"I am familiar with issues related to web-based activities e.g. cyber safety, cyber security, data confidentiality, data privacy etc  , ",14,3,1
+"ICT enables me to collaborate better with my peers on project communication and delivery work, and other learning activities.",14,3,1
+I frequently obtain help with my work from my peers over the Internet and Social Media platforms.,14,3,0
+"I am most comfortable with hard copy articles, books, journals and papers.",14,3,0
+"I find it difficult to manage digital resources, its too confusing for me.",14,3,0
+I frequently need assistance to find my way around digital resources.,14,3,0
+I am a team player as I am able to utilise the  capabilities of my team.,15,4,1
+Being a team player entails being able to resolve conflicts with other teams collaboratively.,15,4,1
+Being a team player entails team members taking personal responsibility for the effectiveness of the team.,15,4,1
+Being a team player entails team members considering how their actions will impact others when deciding what to do.,15,4,1
+Being a team player entails team members seeking and giving each other constructive feedback.,15,4,1
+Being a team player entails being able to work with a great deal of flexibility so that the team can adapt to changing needs.,15,4,1
+Being a team player entails being able to work through differences of opinion without damaging relationships.,15,4,1
+Being a team player entails team members displaying high levels of cooperation and mutual support.,15,4,1
+I believe that I can do things better then others on the team. ,15,4,0
+I end up spending too much of time explaining things to the team when I could be completing things myself.,15,4,0
+"It takes too much effort to deal with others on the team, I rather do things on my own as I know what needs to be done. ",15,4,0
+I would obtain feedback to ensure stakeholders' needs are being met.,16,4,1
+"Before being asked or compelled by circumstances, I would seek opportunities to do activities that have a positive influence on stakeholders.",16,4,1
+"I manage conflict by regulating my emotions through active listening, flexibility, and authentic responses.",16,4,1
+I treat all stakeholders with courtesy and respect.,16,4,1
+I am mindful to the needs of my stakeholders.,16,4,1
+"To me, the bottom line is my biggest priority.",16,4,1
+I am more performance-driven than purpose-driven. ,16,4,1
+I am empathetic and mindful of the needs of my stakeholders.,16,4,1
+I believe that the most important thing is to focus on the outcomes and not specifically on the feelings of the team. ,16,4,0
+Being concerned with the feelings and thoughts of others will negatively impact the outcomes.  ,16,4,0
+I believe that the only way to get a job done well is to keep my head in the game and reduce the impact of emotions.,16,4,0
+"I am able to articulate my thoughts in a clear, coherent and precise fashion.",17,4,1
+"I am confident, receptive, and persuasive while communicating my thoughts.",17,4,1
+I maintain frequent and open communication with people.,17,4,1
+My communications are focused on the most relevant issues.,17,4,1
+"I employ active listening techniques (e.g., paraphrasing, reflecting, open-ended inquiries) to ensure effective communication.",17,4,1
+"I do not utilise non-verbal communication effectively (e.g., eye contact, nodding, gestures, etc.) (R)",17,4,1
+I am able to strengthen my own views by expanding upon those of others.,17,4,1
+I am able to use multiple methods of communication.,17,4,1
+I believe the talking about things wastes a lot of time. Just show the results and people will understand.,17,4,0
+"I have infrequent communication sessions with my stakeholders. Once the project starts, just deliver on the outcomes.",17,4,0
+I do not see the value of non verbal communication cues. It’s much too intangible for me.,17,4,0
+I am a self-directed learner.,18,5,1
+I love learning for its own sake.,18,5,1
+"When I approach new material, I try to relate it to what I already know.",18,5,1
+I try to relate academic learning to practical issues.,18,5,1
+It is my responsibility to make sense of what I learn.,18,5,1
+I am able to impose meaning upon what others see as disorder.,18,5,1
+I can deal with the unexpected and solve problems as they arise. ,18,5,1
+I constantly think about my own learning and how to improve it.,18,5,1
+I rather focus on getting things done well and not concern myself with learning new approaches. ,18,5,0
+" Why learn something new, when I can already do it well with the skills I have today. ",18,5,0
+I find it difficult to learn new things. ,18,5,0
